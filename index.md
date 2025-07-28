@@ -152,7 +152,6 @@ Both components work together to enhance financial inclusion for farmers, improv
 
  (e.g., `https://dashboard.agricreds.com`).
 ### 3.1.1 URL and Login <a id="3-1-1-url-and-login"></a>
-*(Content for URL and Login goes here)*
 
 ## 3.2 Core Functionality <a id="3-2-core-functionality-web"></a> 
 
@@ -201,12 +200,12 @@ Both components work together to enhance financial inclusion for farmers, improv
     *   Deactivate or reset passwords for existing users.
 
 ## 3.3 System Requirements <a id="3-3-system-requirements-web"></a>
-*•Modern Web Browser: Google Chrome.
+•Modern Web Browser: Google Chrome.
 
 •Internet Connection: Required for accessing and using the dashboard.
 
 # 4. Support & Contact Information <a id="4-support-contact-information"></a>
-*For Farmers (Mobile App Support):
+For Farmers (Mobile App Support):
 •FAQ section.
 
 
