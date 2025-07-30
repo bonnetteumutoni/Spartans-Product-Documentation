@@ -3,7 +3,6 @@
 **Version:** 1.0
 **Date:** October 26, 2025
 
----
 
 ## Table of Contents
 
@@ -46,16 +45,16 @@
 ## 1.2 Product Overview <a id="1-2-product-overview"></a>
 AgriCreds is a digital platform designed to streamline and simplify the agricultural loan application and management process. It connects farmers seeking financial assistance with cooperative societies, enabling efficient loan origination, transparent tracking, and improved financial inclusion within the agricultural sector. The product consists of two interconnected components:
 
-   •AgriCreds Mobile App: An Android application for farmers to apply for loans, track their application status, and manage their loan information.
+   • AgriCreds Mobile App: An Android application for farmers to apply for loans, track their application status, and manage their loan information.
 
-   •AgriCreds Web App Dashboard: A web-based administrative panel for cooperative officers to review loan applications, manage farmer profiles, approve or reject loans, and monitor overall loan activities.
+   • AgriCreds Web App Dashboard: A web-based administrative panel for cooperative officers to review loan applications, manage farmer profiles, approve or reject loans, and monitor overall loan activities.
 
 Both components work together to enhance financial inclusion for farmers, improve loan processing speed, and increase transparency in cooperative lending.
 
 ## 1.3 Target Audience <a id="1-3-target-audience"></a>
-  •Farmers: Individual farmers or farming groups in need of financial credit for agricultural activities.
+  • Farmers: Individual farmers or farming groups in need of financial credit for agricultural activities.
 
-  •Cooperative Officers/Loan Officers: Staff members of agricultural cooperatives or financial institutions responsible for processing, evaluating, and managing loan applications from farmers.
+  • Cooperative Officers/Loan Officers: Staff members of agricultural cooperatives or financial institutions responsible for processing, evaluating, and managing loan applications from farmers.
 
 ## 1.4 Key Features <a id="1-4-key-features"></a>
 ### For Farmers (Mobile App):
@@ -133,24 +132,24 @@ Both components work together to enhance financial inclusion for farmers, improv
     *   Interest rate and terms(12% by default).
     *   Repayment schedule (due dates and amounts).
     *   Outstanding balance.
-    *   History of repayments made.*
+    *   History of repayments made.
 
 ### 2.2.5 Notifications <a id="2-2-5-notifications"></a>
 *   Farmers will receive in-app push notifications for important updates, such as:
     *   Upcoming repayment reminders.
-    *   Messages from the cooperative officer.*
+    *   Messages from the cooperative officer.
 
 ## 2.3 System Requirements <a id="2-3-system-requirements-mobile"></a>
-*•Internet Connection: Required for registration, submitting applications, and receiving updates.
+•Internet Connection: Required for registration, submitting applications, and receiving updates.
 
-•Storage: Sufficient free space for app installation and document storage.*
+•Storage: Sufficient free space for app installation and document storage.
 
 
 # 3. Web Application Dashboard (For Cooperative Officers) <a id="3-web-application-dashboard-for-cooperative-officers"></a>
 
 ## 3.1 Accessing the Dashboard <a id="3-1-accessing-the-dashboard"></a>
 
- (e.g., `https://dashboard.agricreds.com`).
+ (e.g., `https://dashboard`).
 ### 3.1.1 URL and Login <a id="3-1-1-url-and-login"></a>
 
 ## 3.2 Core Functionality <a id="3-2-core-functionality-web"></a> 
@@ -161,7 +160,7 @@ Both components work together to enhance financial inclusion for farmers, improv
     *   Number of pending applications.
     *   Total loan amount requested (pending).
     *   Recently approved/rejected loans.
-    *   Quick links to common tasks.*
+    *   Quick links to common tasks.
 
 ### 3.2.2 Farmer Management <a id="3-2-2-farmer-management"></a>
 *   View a list of all registered farmers.
@@ -200,13 +199,14 @@ Both components work together to enhance financial inclusion for farmers, improv
     *   Deactivate or reset passwords for existing users.
 
 ## 3.3 System Requirements <a id="3-3-system-requirements-web"></a>
-•Modern Web Browser: Google Chrome.
+• Modern Web Browser: Google Chrome.
 
-•Internet Connection: Required for accessing and using the dashboard.
+• Internet Connection: Required for accessing and using the dashboard.
 
 # 4. Support & Contact Information <a id="4-support-contact-information"></a>
 For Farmers (Mobile App Support):
-•FAQ section.
+
+• Contact Information .
 
 
 # 5. Provided Links <a id="#5-provided-links"></a>
